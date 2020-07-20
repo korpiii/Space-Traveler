@@ -39,4 +39,5 @@ public class TopDownCharacterController : MonoBehaviour
         rb.MovePosition(rb.position + moveVelocity * Time.fixedDeltaTime);
      
     }
+
 }
